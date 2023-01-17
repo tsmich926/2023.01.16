@@ -12,4 +12,4 @@ print(s1)
 #이름으로 대입
 s2 = 'number:{num},gender={gen}'.format(num=123, gen='남')
 print(s2)
-
+dsjdsjsljf
